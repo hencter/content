@@ -1,10 +1,9 @@
 +++
 title = 'Arch Linux 踩坑记录'
-slug = 'archlinux'
+slug = 'arch-linux'
 date = '2022-10-01T22:10:01+08:00' 
 categories = ["系统", "极简主义"]
 tag = ["ArchLinux", "Linux", "KISS"]
-# draft = true
 +++
 
 ## 引言
