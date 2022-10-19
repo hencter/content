@@ -2,7 +2,7 @@
 aliases = ['ancient', 'book']
 slug = 'ancient'
 title = '古籍'
-weight = 2
+weight = 3
 +++
 
 这里将会放置我在学习的资源
