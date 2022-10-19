@@ -1,12 +1,13 @@
 +++
 categories = ['静态站点生成器']
 date = '2022-05-22T11:29:00.337Z'
-draft = false
 publishDate = '2022-05-23T14:08:15.017Z'
-slug = 'netlifycms-simple-experience'
+slug = 'netlify-cms'
 tags = ['SGG']
-title = 'Netlifycms 简单体验'
+title = 'Netlify CMS 尝试'
 +++
+
+由于最近迁移博客到 Cloudflare Pages 上了，所以这边放弃了
 
 ## 简单步骤
 

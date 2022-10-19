@@ -244,17 +244,16 @@ sudo pacman -Ss libreoffice-fresh libreoffice-fresh-zh-cn
 
 ### Clash
 
-#### 安装
-
 ```shell
+# 安装
 sudo pacman -S clash
 ```
 
-#### 安装 `Country.mmdb`
+#### 安装 `Country.mmdb`[^Country.mmdb]
 
-[`Country.mmdb`](https://github.com/alecthw/mmdb_china_ip_list/blob/master/README.md)
+[^Country.mmdb]: <https://github.com/alecthw/mmdb_china_ip_list/blob/master/README.md>)
 
-https://cdn.jsdelivr.net/gh/alecthw/mmdb_china_ip_list@release/Country.mmdb
+<https://cdn.jsdelivr.net/gh/alecthw/mmdb_china_ip_list@release/Country.mmdb>
 
 #### 配置文件位置
 
@@ -329,4 +328,4 @@ go env -w GO111MODULE=on
 go env -w GOPROXY=https://goproxy.cn,direct
 ```
 
-参考：https://goproxy.cn/
+参考：<https://goproxy.cn/>

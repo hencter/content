@@ -85,13 +85,16 @@ SSH 的代理配置这里是为了 Github 的 ssh 访问
 
 这里需要说明一下，下面配置中执行了 nc 命令，所以这里我们需要安装 BSD 版本的 netcat 工具，GNU 的没法使用代理[^Github git SSH 代理设置]。
 
-### Arch Linux
+### SSH 代理
+
+这里用的环境是 Arch Linux
 
 ```shell
 # 有时候你需要自己 sudo pacman -Ss netcat , 看清楚是 BSD 版本的就行
 sudo pacman -S community/openbsd-netcat
 ```
 
+配置
 
 ```config
 ./ssh/config
