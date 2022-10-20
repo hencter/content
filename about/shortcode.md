@@ -47,20 +47,16 @@ fmt.Println("Hello, 世界")
 
 ### 简单进度条
 
-{{< progress max=100 value=60 >}}
+{{< progress max="100" value="60" >}}
 
 ### fontawesome
 
 品牌图标
 
-{{< fa brand=true icon=rust size="100px">}}
+{{< fa brand="true" icon="rust" size="100px">}}
 
-带 Style 选择
-
-{{< fa style=solid icon=bug >}}
-
-TODO
+{{< fa style="solid" icon="bug" >}}
 
 ```markdown
-{{</* fa icon=house */>}}
+{{</* fa icon="house" */>}}
 ```
