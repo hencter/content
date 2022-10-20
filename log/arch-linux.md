@@ -61,7 +61,7 @@ GRUB_DISABLE_OS_PROBER=false
 
 ## 问题记录
 
-1. 使用 `pacman` 更新时遇到「GPGME 错误：无数据」
+### 一、使用 `pacman` 更新时遇到「GPGME 错误：无数据」
 
    解决方案[^1]
 
@@ -69,7 +69,7 @@ GRUB_DISABLE_OS_PROBER=false
    sudo rm /var/lib/pacman/sync/*.sig
    ```
 
-2. 双系统时间不同步问题
+### 二、双系统时间不同步问题
 
    原因：Windows 系统使用 UTC[^2]
 
@@ -87,7 +87,7 @@ GRUB_DISABLE_OS_PROBER=false
 
    如果 Windows 要求根据夏令时更新时钟，可以允许。时钟仍然是 UTC，仅是显示时间会改变。
 
-3. 模块缺失的警告[^3]
+### 三、模块缺失的警告[^3]
 
    解决 Arch Linux 构建内核模块时报模块缺失的警告
 
@@ -148,7 +148,7 @@ GRUB_DISABLE_OS_PROBER=false
    yay -S mkinitcpio-firmware
    ```
 
-4. 关于键盘 `F1-F12` 被识别为多媒体键
+### 四、关于键盘 `F1-F12` 被识别为多媒体键
 
 这个问题的原因是我的 RK61 键盘 Fn 按下后出现的问题
 

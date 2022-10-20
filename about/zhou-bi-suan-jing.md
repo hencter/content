@@ -2,7 +2,7 @@
 title = '周髀算经'
 date = '2022-08-23T10:17:54+08:00'
 categories = ['算经十书', '数术']
-tags = ['ancient', 'math']
+tags = ['Ancient', 'Math']
 +++
 
 ## 卷之始

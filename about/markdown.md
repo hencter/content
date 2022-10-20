@@ -110,19 +110,14 @@ https://hencter.top or <https://hencter.top>。
 [文本本身]: http://hencter.top
 ```
 
-```html
-
-```
 
 ## 段落
 
 要创建段落，请使用空白行将一行或多行文本进行分隔。
 
-```markdown
 这是一个段落
 
 新段落
-```
 
 ## 换行
 
@@ -132,29 +127,15 @@ https://hencter.top or <https://hencter.top>。
 
 表情，更多请参考[emoji]({{< ref "emoji" >}} "表情列表")
 
-- :smile:
-- :lying_face:
+:smile: · :lying_face:
 
-表情使用参考：<https://www.webfx.com/tools/emoji-cheat-sheet/>
-
-```markdown
-
-行内样式: ![亦幸的头像](/img/avatar.jpg "亦幸的头像")
+行内样式: ![亦幸的头像](/imgs/avatar.jpg "图片资源引用错误")
 
 引用样式: ![亦幸的头像][avatar]
 
 ![请检查网络状态](https://interactive-examples.mdn.mozilla.net/media/cc0-images/elephant-660-480.jpg "夕阳下的大象")
 
-[avatar]: /media/hencter.jpg "亦幸的头像"
-```
-
-行内样式: ![亦幸的头像](/media/hencter.jpg "图片资源引用错误")
-
-引用样式: ![亦幸的头像][avatar]
-
-![请检查网络状态](https://interactive-examples.mdn.mozilla.net/media/cc0-images/elephant-660-480.jpg "夕阳下的大象")
-
-[avatar]: /media/hencter.jpg "亦幸的头像"
+[avatar]: /imgs/avatar.jpg "亦幸的头像"
 
 ## 代码和语法高亮
 
@@ -194,8 +175,6 @@ console.log(str);
 
 ## 水平线
 
-```markdown
 ---
 
-***
-```
+> 古代称用以书写的小幅绢帛。后亦以借指纸。《汉书·外戚传下·孝成赵皇后》：「武（籍武）发篋中，有裹药二枚，赫蹏书。」颜师古注：「邓展曰：『赫音兄弟鬩墙之鬩。』应劭曰：『赫蹏，薄小纸也。』」宋赵彦卫 《云麓漫钞》卷七：「《赵后传》所谓『赫蹏』者，注云『薄小纸』，然其寔亦縑帛。」

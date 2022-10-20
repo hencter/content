@@ -2,7 +2,7 @@
 aliases = ['post', 'posts', 'life', 'articles']
 slug = 'log'
 title = '日志'
-weight = 1
+weight = 2
 +++
 
 ## 工具/教程
@@ -24,3 +24,5 @@ weight = 1
 [EmojiXD]: https://emojixd.com/
 
 ## 内容管理
+
+- Visual Studio Code
