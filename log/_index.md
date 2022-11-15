@@ -2,7 +2,7 @@
 aliases = ['post', 'posts', 'life', 'articles']
 slug = 'log'
 title = '日志'
-weight = 2
+weight = 1
 +++
 
 ## 工具/教程
