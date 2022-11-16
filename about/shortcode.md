@@ -49,6 +49,8 @@ fmt.Println("Hello, 世界")
 
 {{< progress max="100" value="60" >}}
 
+<!-- 
+
 ### fontawesome
 
 品牌图标
@@ -60,3 +62,4 @@ fmt.Println("Hello, 世界")
 ```markdown
 {{</* fa icon="house" */>}}
 ```
+-->

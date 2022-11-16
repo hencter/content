@@ -97,7 +97,7 @@ sudo pacman -S community/openbsd-netcat
 配置
 
 ```config
-./ssh/config
+# ~/.ssh/config
 Host github.com *.github.com
    User git
    IdentityFile ~/.ssh/<私钥>

@@ -110,7 +110,6 @@ https://hencter.top or <https://hencter.top>。
 [文本本身]: http://hencter.top
 ```
 
-
 ## 段落
 
 要创建段落，请使用空白行将一行或多行文本进行分隔。
